@@ -2,18 +2,7 @@
 
 
 Rope implements the insightface inswapper_128 model with a helpful GUI.
-### [Discord](https://discord.gg/EcdVAFJzqp)
 
-### [Donate](https://www.paypal.com/donate/?hosted_button_id=Y5SB9LSXFGRF2)
-
-### [Wiki with install instructions and usage](https://github.com/Hillobar/Rope/wiki)
-
-### [Demo Video (Rope-Ruby)](https://www.youtube.com/watch?v=4Y4U0TZ8cWY)
-
-### ${{\color{Goldenrod}{\textsf{Last Updated 2024-05-27}}}}$ ###
-### ${{\color{Goldenrod}{\textsf{Welcome to Rope-Pearl!}}}}$ ###
-
-![Screenshot 2024-02-10 104718](https://github.com/Hillobar/Rope/assets/63615199/4b2ee574-c91e-4db2-ad66-5b775a049a6b)
 
 ### Updates for Rope-Pearl-00: ###
 ### To update from Opal-03a, just need to replace the rope folder.
